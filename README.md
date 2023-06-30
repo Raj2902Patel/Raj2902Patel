@@ -96,6 +96,7 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<br>
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -104,28 +105,21 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj2902patel&show_icons=true&locale=en&layout=compact" alt="raj2902patel" /></p><br>
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
+
 
 </div>
-<!--  End Stats Cards -->
 
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:raj2902patel@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
-<!-- End Footer -->
+
 
 
