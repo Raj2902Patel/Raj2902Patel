@@ -104,7 +104,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
 
