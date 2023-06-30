@@ -1,12 +1,14 @@
-<h1 style="color: #44AEFB;" align="center"> Hi 👋, I am  Raj Patel</h1>
+<h1 style="color: #44AEFB;" align="center"> Hi 👋, I'm Raj Patel</h1>
 
-![github_cover_banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![github_cover_banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
+
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <h2 align="center">A Passionate Full Stack Website and Application Developer From India.</h2><br><br>
     - 🔭 I’m currently working on <b></b>HealthCare Monitoring System</b><br><br>
     - 🌱 I’m currently learning Flutter and Firebase<br><br>
-    - 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">raj2902patel@gmail.com</a><br><br><br>
+    - 📫 How to reach me <a href="mailto:raj2902patel@gmail.com">raj2902patel@gmail.com</a><br><br><br>
     
 
 
@@ -37,12 +39,8 @@
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
+  
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
@@ -83,9 +81,7 @@
   <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
       <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
+  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
@@ -99,7 +95,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://15d.co/wp-content/uploads/2018/04/3loaders.gif)
+![github_cover_banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -126,7 +122,7 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
+    <a href="mailto:raj2902patel@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
