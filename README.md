@@ -8,7 +8,7 @@
     <h2 align="center">A Passionate Full Stack Website and Application Developer From India.</h2><br><br>
     - 🔭 I’m currently working on <b></b>HealthCare Monitoring System</b><br><br>
     - 🌱 I’m currently learning Flutter and Firebase<br><br>
-    - 📫 How to reach me <a href="mailto:raj2902patel@gmail.com">raj2902patel@gmail.com</a><br><br><br>
+    - 📫 How to reach me 📧 <a href="mailto:raj2902patel@gmail.com">raj2902patel@gmail.com</a><br><br><br>
     
 
 
@@ -95,7 +95,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![github_cover_banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![github_cover_banner](https://engineering.fb.com/wp-content/uploads/2019/11/Data_PortabilityPrivacy_BANNER_003.gif)
 <br>
 
 <!-- Begin Stats Cards -->
@@ -120,7 +120,7 @@
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40px"/>
     <a href="https://api.whatsapp.com/send?phone=919104549126" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40px"/>
-    <a href="Discordapp.com/users/694466963107479573" target="_blank">
+    <a href="https://discord.com/users/694466963107479573" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px"/>
         
 </div>
