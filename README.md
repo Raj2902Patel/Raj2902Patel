@@ -95,7 +95,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![github_cover_banner](https://engineering.fb.com/wp-content/uploads/2019/11/Data_PortabilityPrivacy_BANNER_003.gif)
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="350" width="1013">
 <br>
 
 <!-- Begin Stats Cards -->
