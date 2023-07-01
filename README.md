@@ -95,7 +95,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 <br>
 
 <!-- Begin Stats Cards -->
@@ -106,6 +106,7 @@
 <div class="stats" align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p><br>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
 
