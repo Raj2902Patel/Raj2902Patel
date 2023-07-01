@@ -118,9 +118,9 @@
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.instagram.com/rajpatel_2902/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40px"/>
-    <a href="https://chat.whatsapp.com/send?phone=919104549126" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=919104549126" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40px"/>
-    <a href="https://support.discord.com/hc/en-us/articles/360060145013" target="_blank">
+    <a href="Discordapp.com/users/694466963107479573" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px"/>
         
 </div>
