@@ -117,9 +117,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj2902patel&show_icons=true&locale=en&layout=compact" alt="raj2902patel" /></p><br>
 
 
 
