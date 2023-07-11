@@ -85,6 +85,15 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img  alt="Photoshop" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> 
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img  alt="PHP" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/> 
+  </a>
+  
 </div>
 <br>
 <br>
