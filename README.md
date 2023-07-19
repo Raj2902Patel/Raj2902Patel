@@ -128,13 +128,13 @@
 </div>
 
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.instagram.com/rajpatel_2902/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40px"/>
-    <a href="https://api.whatsapp.com/send?phone=919104549126" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40px"/>
-    <a href="https://discord.com/users/694466963107479573" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px"/>
-        
+    <a href="mailto:raj2902patel@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     <a href="https://api.whatsapp.com/send?phone=919104549126" target="_blank">
+        <img src="https://img.shields.io/badge/Whatsapp-28D146?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/raj-patel-4b1618281/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+    </a>
 </div>
 
 
