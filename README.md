@@ -102,9 +102,9 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">👀 Statistics</h2>
 
-<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+
 <br>
 
 <!-- Begin Stats Cards -->
