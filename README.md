@@ -93,6 +93,10 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img  alt="PHP" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/> 
   </a>
+
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img  alt="PHP" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png"/> 
+  </a>
   
 </div>
 <br>
