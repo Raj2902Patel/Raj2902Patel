@@ -95,7 +95,14 @@
   </a>
 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-      <img  alt="PHP" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png"/> 
+      <img  alt="R" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png"/> 
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img  alt="React" height="50px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img  alt="React" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qx1XWjZGn0HJwnD8S9NIB0s-jOZ1JhxbLw&s"/> 
   </a>
   
 </div>
